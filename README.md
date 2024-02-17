@@ -1,1 +1,1 @@
-# forms
+![CI](https://github.com/Bulavackii/forms/actions/workflows/web.yml/badge.svg)
